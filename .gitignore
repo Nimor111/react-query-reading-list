@@ -27,3 +27,6 @@ yarn-error.log*
 
 # ts-server
 .log
+
+# node2nix generated files
+/node2nix-deps/*.nix
